@@ -1,0 +1,17 @@
+{
+  "name": "special-machinejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.2.6",
+    "nodemon": "^2.0.22"
+  }
+}
